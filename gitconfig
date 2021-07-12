@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andrew_jennings@ymail.com
+	name = Drew Jennings
